@@ -16,3 +16,4 @@ while check(symbols, ascii_lowercase, ascii_uppercase, digits):
     pw = ''.join(random.choices(chars, k=int(sys.argv[1])))
 
 print(f"password: {pw}")
+# test
