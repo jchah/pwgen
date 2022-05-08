@@ -1,6 +1,6 @@
 # pwgen
 Console password generator
 
-##setup
+## setup
 - cd FOLDER
 - generate.py -length LENGTH
