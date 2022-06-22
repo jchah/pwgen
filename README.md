@@ -2,5 +2,5 @@
 Console password generator
 
 ## setup
-- cd FOLDER
+- cd DIRECTORY
 - generate.py -length LENGTH
